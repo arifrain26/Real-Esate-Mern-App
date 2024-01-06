@@ -21,10 +21,13 @@ This simple project is for listing real Estate property for rent and sell
 - json web token = create json web token for signin, signup
 - moongoose =  MongoDB object modeling
 - Cookie-parser = to read token from Cookies
-- nodemon = devlopment 
+- nodemon = devlopment
 
 ## Created API
 
 - /auth = signin, signup, signout, google auth
 - /user = update user detail, delete account, get user detail, get user listed property
 - /listing = get all listing, user listing
+
+## Live project
+https://mern-esate-app.onrender.com/
